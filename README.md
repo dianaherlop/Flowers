@@ -1,4 +1,4 @@
-# Flowers
+# Blooming Flowers
 
 A simple website about flowers created using HTML and CSS.
 
